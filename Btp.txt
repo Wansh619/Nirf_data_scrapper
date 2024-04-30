@@ -1,0 +1,38 @@
+x ->1)Total number of sanctioned intake(sum of all UG & PG programs of all years) = Nt
+      Total actual student strength(sum of all programs) = Ne
+      PhD students data(full time + part time) = Np
+     
+    2)Total number of faculties = F
+
+    3) No data right now
+     
+    4)Library
+      New Equipment and software for Laboratories    <----- add all these = BC
+      Engineering Workshops 
+
+
+      Salaries
+      Maintenance of Academic Infrastructure    <------ add all these = BO
+      Seminars
+
+Y ->1)SS
+     
+    2)FSR
+
+    3)FQE
+
+    4)FRU
+
+functions ->1)SS = f(NT, NE) × 15 + f(NP) × 5
+
+            2)FSR = 30 × [15 × (F/N)]
+               N =NT+ Np
+
+            3)FQ = 10 × (FRA/95) , FRA < 95%;
+              FQ = 10, FRA ≥ 95%.
+              FE = 3min(3F1, 1) + 3 min(3F2, 1) + 4 min(3F3, 1)
+                                    FQE = FQ + FE
+
+            4)FRU = 7.5×f(BC) + 22.5×f(BO)
+
+

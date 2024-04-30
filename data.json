@@ -1,0 +1,73 @@
+{
+
+    "data":{
+    
+        "sanction_table":{
+                "horizontal_heading":["Acadmic Year","2021-22","2020-21","2019-20","2018-19","2017-18","2016-17"],
+                "vertical_heading":["Acadmic Year","UG [4 Years Program(s)]","UG [5 Years Program(s)]","PG [2 Years Program(s)]","PG [3 Years Program(s)]"]
+                         },
+        "Total_actual_student_strength":{
+                "horizontal_heading":["(All programs of all years)", "No. of Male Students","No. of Female Students","Total Students","Within State(Including male & female)",
+                                        "Outside State(Including male & female)","Outside Country(Including male & female)","Economically Backward (Including male & female)",
+                                        "Socially Challenged (SC+ST+OBC Including male & female)","No. of students receiving full tuition fee reimbursement from the State and Central Government",
+                                        "No. of students receiving full tuition fee reimbursement from Institution Funds","No. of students receiving full tuition fee reimbursement from the Private Bodies",
+                                        "No. of students who are not receiving full tuition fee reimbursement"],
+                "vertical_heading":["(All programs of all years)","UG [4 Years Program(s)]","UG [5 Years Program(s)]","PG [2 Years Program(s)]","PG [3 Years Program(s)]"]
+                                        },
+        
+        "UG_[4_Years_Program(s)]:_Placement_&_Higher_Studies_for_previous_3_years": {
+                "horizontal_heading":["Academic Year","No. of first year students intake in the year","No. of first year students admitted in the year",
+                                        "Academic Year","No. of students admitted through Lateral entry","Academic Year","No. of students graduating in minimum stipulated time",
+                                        "No. of students placed", "Median salary of placed graduates per annum(Amount in Rs.)","No. of students selected for Higher Studies"],
+                "vertical_heading":["Acadmic Year","2016-17","2017-18","2018-19"]
+                                                                                    },
+
+        "UG_[5_Years_Program(s)]:_Placement_&_Higher_Studies_for_previous_3_years": {
+                "horizontal_heading":["Academic Year","No. of first year students intake in the year","No. of first year students admitted in the year",
+                                        "Academic Year","No. of students admitted through Lateral entry","Academic Year","No. of students graduating in minimum stipulated time",
+                                        "No. of students placed", "Median salary of placed graduates per annum(Amount in Rs.)","No. of students selected for Higher Studies"],
+                "vertical_heading":["Acadmic Year","2015-16","2016-17","2017-18"]
+                                                                                    },
+
+        "PG_[2_Years_Program(s)]:_Placement_&_Higher_Studies_for_previous_3_years": {
+                "horizontal_heading":["Academic Year","No. of first year students intake in the year","No. of first year students admitted in the year",
+                                        "Academic Year","No. of students admitted through Lateral entry","Academic Year","No. of students graduating in minimum stipulated time",
+                                        "No. of students placed", "Median salary of placed graduates per annum(Amount in Rs.)","No. of students selected for Higher Studies"],
+                "vertical_heading":["Acadmic Year","2018-19","2019-20","2020-21"]
+                                                                                    },
+
+        "PG_[3_Years_Program(s)]:_Placement_&_Higher_Studies_for_previous_3_years": {
+                "horizontal_heading":["Academic Year","No. of first year students intake in the year","No. of first year students admitted in the year",
+                                        "Academic Year","No. of students admitted through Lateral entry","Academic Year","No. of students graduating in minimum stipulated time",
+                                        "No. of students placed", "Median salary of placed graduates per annum(Amount in Rs.)","No. of students selected for Higher Studies"],
+                "vertical_heading":["Acadmic Year","2017-18","2018-19","2019-20"]
+                                                                                    },
+
+        "Ph.D_(Student_pursuing_doctoral_program_till)_2021-22)":   {
+                "horizontal_heading":["_","Total Students"],
+                "vertical_heading":["Full Time","Part Time"]
+                                                                    },
+        "No._of_Ph.D_students_graduated_(including_Integrated_Ph.D)":   {
+                "horizontal_heading":["2021-22","2020-21","2019-2020"],
+                "vertical_heading":["Full Time","Part Time"]
+                                                                        },
+        "Sponsored_Research_Details":   {
+                "horizontal_heading":["Financial Year","2021-22","2020-21","2019-2020"],
+                "vertical_heading":["Total no. of Sponsored Projects","Total no. of Funding Agencies","Total Amount Received (Amount in Rupees)","Amount Received in Words"]
+                                        },                                                               
+        "Consultancy_Project_Details":  {
+                "horizontal_heading":["Financial Year","2021-22","2020-21","2019-2020"],
+                "vertical_heading":["Total no. of Consultancy Projects","Total no. of Client Organizations","Total Amount Received (Amount in Rupees)","Amount Received in Words"]
+                                        },
+        "PCS_Facilities:_Facilities_of_Physically_Challenged_Students": {
+                "horizontal_heading":["-","-"],
+                "vertical_heading":["1. Do your institution buildings have Lifts/Ramps?",
+                                    "2. Do your institution have provision for walking aids, including wheelchairs and transportation from one building to another for handicapped students?",
+                                    "3. Do your institution buildings have specially designed toilets for handicapped students? "]
+                                                                        },
+        "Faculty_Details":  {
+                "horizontal_heading":["-"],
+                "vertical_heading":["Number of faculty members entered"]
+                            }                                                                                            
+    }
+}
