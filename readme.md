@@ -47,6 +47,34 @@ To get started with the project, follow these simple steps:
 
 Note: Use a backward slash when running the code on Powershell and a forward slash when using CmdPrompt.
 
+## External Tool
+1. Google Tesseract :
+   https://github.com/tesseract-ocr/tesseract
+   
+## Output Structure
+```
+OUTPUT
++---College Name
+    |   clg_data.json
+    |
+    +---expenditure
+    |       expenditure.csv
+    |
+    +---parm_image
+    |       parms.png
+    |
+    +---pdf
+    |       data.pdf
+    |
+    +---phd_student
+    |       phd_student.csv
+    |
+    +---sanctioned_intake
+    |       sanctioned_intake.csv
+    |
+    +---total_actual_ss
+            total_actual_ss.csv
+```
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
