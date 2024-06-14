@@ -19,7 +19,7 @@ To get started with the project, follow these simple steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/Nirf_data_scrapper.git
+   git clone https://github.com/Wansh619/Nirf_data_scrapper.git
    ```
 2. **Install Virtual ENV Package:**
    ```
