@@ -45,6 +45,11 @@ To get started with the project, follow these simple steps:
 7. **Explore the Data:**
    Once the scraping is complete, explore the extracted data in the `output` directory.
 
+8. **Get CSV file:**
+   ```
+   python final_dataframe.py
+   ```
+
 Note: Use a backward slash when running the code on Powershell and a forward slash when using CmdPrompt.
 
 ## External Tool
